@@ -146,12 +146,6 @@ Contributions are welcome. Please read the contributing guidelines before submit
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See LICENSE file for details.
-
----
-
 ## Acknowledgments
 
 Developed for the AI for Bharat Hackathon with the goal of improving healthcare access in rural India. Special thanks to ASHA workers who inspired this project through their dedication to community health.
